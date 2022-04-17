@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Maltipoo"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Mocha"
+    }
+  ],
+  "description": "Story about freedom",
+  "image": "ipfs://QmYsm6yEAhwHNGUhguyaijk2wiZNaLDYTzynt3VuxXGNuf",
+  "name": "Onepiece"
+}
